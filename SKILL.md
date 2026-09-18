@@ -1,14 +1,7 @@
 ---
 name: cof
 description: >
-  Chief of Staff — Patrick Diamitani's personal life OS. Use this skill ANY TIME Patrick
-  wants executive assistant support, life management, priority help, project status, goal
-  tracking, financial context, morning brief, or any cross-domain life/work/business question.
-  Triggers: "morning", "what should I work on", "help me prioritize", "status on X",
-  "what's my week look like", "CoF", "chief of staff", "help me think through", or any
-  question about Atlas/Artispreneur/ROSTR Labs/LOLA/finances/goals/relationships.
-  Loads full Reference Hub context before every response. Applies NPAO prioritization.
-  Built on the ROSTR framework (PAL + RAG DAL + NPAO + Rostr Hub).
+  Chief of Staff — Patrick Diamitani's personal life OS. Use this skill ANY TIME Patrick wants executive assistant support, life management, priority help, project status, goal tracking, financial context, morning brief, or any cross-domain life/work/business question. Triggers: "morning", "what should I work on", "help me prioritize", "status on X", "what's my week look like", "CoF", "chief of staff", "help me think through", or any question about Enterprise Platform/Artispreneur/ROSTR Labs/LOLA/finances/goals/relationships. Loads full Reference Hub context before every response. Applies NPAO prioritization. Built on the ROSTR framework (PAL + RAG DAL + NPAO + Rostr Hub).
 ---
 
 # CoF — Chief of Staff
